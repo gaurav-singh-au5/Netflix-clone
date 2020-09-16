@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Netflix font-end clone
 
-## Developed by: Matt Groberg
+## Developed by: Gaurav Singh
 
 _This is a front-end clone of netflix, using React. It isnt an exact clone, but I tried to replicate most of the styles and functionality.
 
@@ -48,6 +47,3 @@ _This is a front-end clone of netflix, using React. It isnt an exact clone, but 
 7. Entering text in the search box triggers a method that updates the state of the search text
 
 8. A different filter function is used to test if each title includes the search text, and this array is passed as a prop to the SearchResults Component
-=======
-# Netflix-clone
->>>>>>> e4e24cbcb8e943bc5eabac846d53151733d93fb2
